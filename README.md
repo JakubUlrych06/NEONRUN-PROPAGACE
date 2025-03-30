@@ -1,3 +1,5 @@
 # NEONRUN-PROPAGACE
 
-[![Watch the video](https://img.youtube.com/vi/SDnorKyKcVY/0.jpg)](https://youtu.be/SDnorKyKcVY)
+<video controls>
+   <source src="NEONRUN.mp4" type="video/mp4">
+</video>
