@@ -1,5 +1,3 @@
 # NEONRUN-PROPAGACE
 
-<video controls>
-   <source src="NEONRUN.mp4" type="video/mp4">
-</video>
+[![Watch the video](https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg)](NEONRUN_VID.mp4)
